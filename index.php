@@ -9,10 +9,10 @@
 </head>
 <body>
 
-    <div class="container">
+    <div class="container mt-3">
         <div class="row">
             <div class="col-md-10">
-                                
+                <a href="controller/controlador.php?vista=ver" class="btn btn-primary">Ver CRUD</a>                                
             </div>
         </div>
     </div>
